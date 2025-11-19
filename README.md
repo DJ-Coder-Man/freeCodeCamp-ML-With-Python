@@ -1,19 +1,13 @@
 # freeCodeCamp Machine Learning With Python
 
----
-
 Hello and welcome to my first personal repository!
 
 This repository documents my progress through the **Machine Learning With Python** curriculum offered by **freeCodeCamp**. 
-
----
 
 Here, you will find:
 
 - My solutions to each project
 - Resources related to each solution and this curriculum
-
----
 
 Although this course is not the most modern introduction to artificial intelligence and machine learning, it's still a solid foundation. Additionally, did I mention that it's completely FREE?!
 
