@@ -26,11 +26,11 @@ If you find this repository helpful, consider giving it a ⭐.
 
 ---
 
-## Resources:
+## Resources
 - [TensorFlow](https://www.tensorflow.org/)
 - [freeCodeCamp Machine Learning With Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 
 ---
 
 ## Disclaimer
-If you are completing this course as well, please attempt the projects yourself before referring to these solutions. Do NOT copy or plagiarize any code as this violates freeCodeCamp's academic honesty policy. Thank you!
+If you are completing this course as well, please attempt the projects yourself before referring to these solutions. Since this course currently lacks interactive instructional elements, freeCodeCamp encourages learners to seek additional resources to aid in their solutions. Do **NOT** copy or plagiarize any code as this violates freeCodeCamp's academic honesty policy. Thank you!
